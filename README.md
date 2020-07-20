@@ -1,1 +1,1 @@
-Sistema de tags, quanto mais a palavra aparecer, maior ela vai ficar na tela.
+Sistema de tags, quanto mais a palavra for mencionada, maior ela vai ficar na tela.
